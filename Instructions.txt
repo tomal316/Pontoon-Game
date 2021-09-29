@@ -1,0 +1,14 @@
+Compile and Run Instruction:
+
+1) Open Terminal/Console/Command Prompt
+2) Type in javac *.java. (This will compile the code)
+3) Enter java Driver. (This is for running the program)
+
+How to play:
+
+1) When you see the frame, click 'New Game' Button. This will start the game.
+2) Follow the instructions, on whose turn it is.
+3) Click on the numbers on your turn.
+4) The aim is to keep the total below 22. The first player to take the total above
+     21 will loose and the winner will be declared.
+5) Click on 'New Game' button to restart the game at any point in the game. 
